@@ -1,2 +1,2 @@
 management.security.enabled=false
-application.url=http://dev
+application.url=http://dev just edited
