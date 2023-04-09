@@ -1,3 +1,0 @@
-management.security.enabled=false
-application.url=http://dev
-server.port=9999
